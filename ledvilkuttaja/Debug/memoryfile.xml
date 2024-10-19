@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dht2serial.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>160</used>                     
+      <free>1888</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>128</length>                 
+      <used>0</used>                     
+      <free>128</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
